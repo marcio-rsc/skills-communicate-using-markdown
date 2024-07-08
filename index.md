@@ -2,3 +2,5 @@
 ## This is a h2 header
 ###### This is a h6 header
 Update index.md
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
